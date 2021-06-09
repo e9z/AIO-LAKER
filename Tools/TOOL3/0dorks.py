@@ -203,10 +203,10 @@ if __name__ == "__main__":
              
         {Style.RESET_ALL}
 
-        {Fore.GREEN} 0xDork By LAKER {Style.RESET_ALL}
+        {Fore.GREEN} 0DORK BY @lysand3r {Style.RESET_ALL}
 
-        {Fore.YELLOW} INSTA: {Style.RESET_ALL} @E9_z_
-        {Fore.YELLOW} TELEGRAM :  {Style.RESET_ALL} LAKER305
+        {Fore.YELLOW} 0day Group: {Style.RESET_ALL} https://t.me/ceroday4you
+        {Fore.YELLOW} HackingTools:  {Style.RESET_ALL} https://t.me/cobaltteam
     """)
 
     print(f"""
