@@ -203,10 +203,10 @@ if __name__ == "__main__":
              
         {Style.RESET_ALL}
 
-        {Fore.GREEN} 0xDork By LAKER {Style.RESET_ALL}
+        {Fore.GREEN} 0Dork {Style.RESET_ALL}
 
-        {Fore.YELLOW} INSTA: {Style.RESET_ALL} @E9_z_
-        {Fore.YELLOW} TELEGRAM :  {Style.RESET_ALL} LAKER305
+        {Fore.YELLOW} {Style.RESET_ALL}
+        {Fore.YELLOW}  {Style.RESET_ALL} 
     """)
 
     print(f"""
